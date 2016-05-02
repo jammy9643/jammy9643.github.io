@@ -1,1 +1,29 @@
-body {background: blue}
+img {
+  border: 1px solid black;
+  padding: 1px;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+a:visited {
+  color: red;
+}
+
+.italize {
+  font-style: italic;
+}
+
+#chicago {
+  color: blue;
+}
+
+form {
+  background-image: url(form.jpg);
+}
